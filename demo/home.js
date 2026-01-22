@@ -1,1 +1,1 @@
-console.log()
+console.log("hey muzammil this is one line code")
