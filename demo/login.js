@@ -12,7 +12,7 @@ console.log("🚀 Demo project started...");
 const user = {
   name: "Muzammil",
   age: 20,
-  role: "MERN Trainee",
+  role: "MERN trainee",
 };
 
 // Function: greet user
