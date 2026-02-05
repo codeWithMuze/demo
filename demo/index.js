@@ -4,7 +4,7 @@ console.log("Hello Muzammil! 👋");
 
 // Variables
 let name = "Muzammil";
-let age = 20;
+let age = 25;
 
 console.log("Name:", name);
 console.log("Age:", age);
