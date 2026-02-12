@@ -7,12 +7,11 @@ console.log(array);
 // index.js - demo JavaScript code
 
 console.log("🚀 Demo project started...");
-
 // Simple user data
 const user = {
   name: "Muzammil",
   age: 20,
-  role: "MERN trainee",
+  role: "MERN trainer",
 };
 
 // Function: greet user
@@ -23,7 +22,7 @@ function greetUser(user) {
 }
 
 // Function: check even/odd
-function checkEvenOdd(num) {
+async function checkEvenOdd(num) {
   if (num % 2 === 0) {
     return `${num} is Even ✅`;
   } else {
